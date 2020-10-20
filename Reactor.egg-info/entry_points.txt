@@ -1,0 +1,4 @@
+
+        [console_scripts]
+        reactor = Reactor.entry_point:execute
+    
